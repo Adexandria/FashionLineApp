@@ -1,0 +1,12 @@
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\bin\Debug\net6.0\FashionLine.Domain.deps.json
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\bin\Debug\net6.0\FashionLine.Domain.dll
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\bin\Debug\net6.0\FashionLine.Domain.pdb
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.csproj.AssemblyReference.cache
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.AssemblyInfoInputs.cache
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.AssemblyInfo.cs
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.dll
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\refint\FashionLine.Domain.dll
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\FashionLine.Domain.pdb
+C:\Users\T14\Downloads\FashionLine\FashionLine\FashionLine.Domain\obj\Debug\net6.0\ref\FashionLine.Domain.dll

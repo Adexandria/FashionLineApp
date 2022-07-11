@@ -29,7 +29,7 @@ namespace FashionLine
 
             //Crud operations for Measurement
 
-            MeasurementService.AddMeasurement(measurement);
+            //MeasurementService.AddMeasurement(measurement);
             //MeasurementService.GetMeasurementById(2);
             //MeasurementService.UpdateMeasurement(updatedMeasurement);
             //MeasurementService.DeleteMeasurement(1);
